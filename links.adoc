@@ -1,24 +1,21 @@
- CodeReady Containers
+
  
  
- 
+ ----
  CodeReady Containers / OpenShift 4.2+
  http://bit.ly/marcredhat
  http://bit.ly/marcredhatplaylist
- 
+ ----
 
 
- == Machine Learning use cases with OpenShift
- 
- 
- 
+ ----
+ Machine Learning use cases with OpenShift
  ML playlist: https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L
- 
+ ----
 
-
- == Multicluster/multicloud runtime security and monitoring with Sysdig and OpenShift 
  
  ----
+ Multicluster/multicloud runtime security and monitoring with Sysdig and OpenShift 
  Sysdig runtime security on OpenShift 4.2+; Deploy the Sysdig Secure agent with eBPF on OpenShift 4.2+
  https://lnkd.in/gY5Sj8m
 
@@ -34,25 +31,22 @@
  https://lnkd.in/gvYi86t
  ----
 
- 
- ==  OpenShift application runtimes (focus Spring Boot). 
 
 
  ----
- step-by-step instructions on deploying
-
- SpringBoot and Jakarta EE apps
-
+ OpenShift application runtimes (focus on SpringBoot). 
+ step-by-step instructions on deploying SpringBoot and Jakarta EE apps
  with Open Liberty on OpenShift 4.2+ / CodeReady Containers:
 
  https://github.com/marcredhat/crcdemos/blob/master/openliberty/README.adoc
  ----
 
  
- == Service mesh overview
  
  ----
- Istio 1.4.0 on OpenShift 3.11 / Minishift
+ Service mesh overview
+ 
+ step-by-step instructions on deploying Istio 1.4.0 on OpenShift 3.11 / Minishift
 
  https://github.com/marcredhat/minishift/blob/master/istio/README.adoc
  ---- 
