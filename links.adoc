@@ -82,6 +82,9 @@ Circuit breaking at the connection-pool level and at the load-balancing host lev
 Example: 
 VirtualService splittingtraffic between v1 and v2
 DestinationRule with max pending requests
+
+
+Outlier detection / pool ejection
 ---- 
  
  
