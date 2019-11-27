@@ -70,7 +70,12 @@ You can use Istio in both zero-trust networking architectures as well as
 traditional perimeter-based security
 
 
-In the past, developers have often tried to use frameworks (EJBs, CORBA, RMI, etc.) to simply make net‐ work calls appear like local method invocations. This gave develop‐ ers a false peace of mind. Without ensuring the application actively guarded against network failures, the entire system was susceptible to cascading failures.
+In the past, developers have often tried to use frameworks (EJBs, CORBA, RMI, etc.) 
+to make network calls appear like local method invocations. 
+
+This gave developers a false peace of mind. 
+Without ensuring the application actively guarded against network failures, 
+he entire system was susceptible to cascading failures.
 ---- 
  
  
