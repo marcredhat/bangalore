@@ -47,6 +47,14 @@ https://github.com/marcredhat/crcdemos/blob/master/openliberty/README.adoc
 ----
 step-by-step instructions on deploying Istio 1.4.0 on OpenShift 3.11 / Minishift
 https://github.com/marcredhat/minishift/blob/master/istio/README.adoc
+
+Dark launch (mirror)
+
+Migrating to Microservice Databases
+https://learning.oreilly.com/library/view/migrating-to-microservice/9781492048824
+
+Advanced Traffic-Shadowing Patterns for Microservices with Istio Service Mesh
+http://bit.ly/2SsVzRK
 ---- 
  
  
