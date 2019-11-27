@@ -1,0 +1,60 @@
+
+ == CodeReady Containers
+ 
+ ----
+ CodeReady Containers / OpenShift 4.2+
+ http://bit.ly/marcredhat
+ http://bit.ly/marcredhatplaylist
+ ----
+
+
+ == Machine Learning use cases with OpenShift
+ 
+ ----
+ ML playlist: https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L
+ ----
+
+
+ == Multicluster/multicloud runtime security and monitoring with Sysdig and OpenShift 
+ 
+ ----
+ Sysdig runtime security on OpenShift 4.2+; Deploy the Sysdig Secure agent with eBPF on OpenShift 4.2+
+ https://lnkd.in/gY5Sj8m
+
+ Use the Jenkins plugin for Sysdig Secure on OpenShift 4.2+ ; Build the Jenkins plugin for Sysdig Secure on RHEL 8 using podman
+ https://lnkd.in/gR4GTHJ
+
+ Tekton Pipeline with Sysdig Secure image scans on OpenShift 4.2+
+ https://lnkd.in/g84DmdM
+ Credits: I just added a Sysdig Secure image scan step to existing Tekton Pipeline examples
+ To do: use Tekton conditionals to make decisions based on scan results etc
+
+ Sysdig Inspect using podman
+ https://lnkd.in/gvYi86t
+ ----
+
+ 
+ ==  OpenShift application runtimes (focus Spring Boot). 
+ 
+ ----
+ step-by-step instructions on deploying
+
+ SpringBoot and Jakarta EE apps
+
+ with Open Liberty on OpenShift 4.2+ / CodeReady Containers:
+
+ https://github.com/marcredhat/crcdemos/blob/master/openliberty/README.adoc
+ ----
+
+ 
+ == Service mesh overview
+ 
+ ----
+ Istio 1.4.0 on OpenShift 3.11 / Minishift
+
+ https://github.com/marcredhat/minishift/blob/master/istio/README.adoc
+ ---- 
+ 
+ 
+ 
+
