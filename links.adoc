@@ -2,19 +2,19 @@
  == CodeReady Containers
  
  
- ----
+ 
  CodeReady Containers / OpenShift 4.2+
  http://bit.ly/marcredhat
  http://bit.ly/marcredhatplaylist
- ----
+ 
 
 
  == Machine Learning use cases with OpenShift
  
  
- ----
+ 
  ML playlist: https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L
- ----
+ 
 
 
  == Multicluster/multicloud runtime security and monitoring with Sysdig and OpenShift 
