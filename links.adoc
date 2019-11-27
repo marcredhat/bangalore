@@ -61,7 +61,8 @@ you specifically and explicitly create rules to allow traffic out.
 
 From a security standpoint, this is crucial. 
 
-You can use Istio in both zero-trust networking architectures as well as traditional perimeter-based security
+You can use Istio in both zero-trust networking architectures as well as 
+traditional perimeter-based security
 ---- 
  
  
