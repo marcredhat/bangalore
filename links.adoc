@@ -1,6 +1,7 @@
 
  == CodeReady Containers
  
+ 
  ----
  CodeReady Containers / OpenShift 4.2+
  http://bit.ly/marcredhat
@@ -9,6 +10,7 @@
 
 
  == Machine Learning use cases with OpenShift
+ 
  
  ----
  ML playlist: https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L
@@ -21,7 +23,7 @@
  Sysdig runtime security on OpenShift 4.2+; Deploy the Sysdig Secure agent with eBPF on OpenShift 4.2+
  https://lnkd.in/gY5Sj8m
 
- Use the Jenkins plugin for Sysdig Secure on OpenShift 4.2+ ; Build the Jenkins plugin for Sysdig Secure on RHEL 8 using podman
+ Use the Jenkins plugin for Sysdig Secure on OpenShift 4.2+ ; Build the Jenkins plugin for Sysdig Secure on RHEL 8 using  podman
  https://lnkd.in/gR4GTHJ
 
  Tekton Pipeline with Sysdig Secure image scans on OpenShift 4.2+
@@ -35,7 +37,8 @@
 
  
  ==  OpenShift application runtimes (focus Spring Boot). 
- 
+
+
  ----
  step-by-step instructions on deploying
 
