@@ -56,7 +56,12 @@ https://learning.oreilly.com/library/view/migrating-to-microservice/978149204882
 Advanced Traffic-Shadowing Patterns for Microservices with Istio Service Mesh
 http://bit.ly/2SsVzRK
 
-Istio blocks all outbound (outside of the cluster) traffic unless you specifically and explicitly create rules to allow traffic out. From a security standpoint, this is crucial. You can use Istio in both zero-trust networking architectures as well as traditional perimeter-based security
+Istio blocks all outbound (outside of the cluster) traffic unless 
+you specifically and explicitly create rules to allow traffic out. 
+
+From a security standpoint, this is crucial. 
+
+You can use Istio in both zero-trust networking architectures as well as traditional perimeter-based security
 ---- 
  
  
