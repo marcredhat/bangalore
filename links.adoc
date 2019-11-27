@@ -10,6 +10,10 @@ http://bit.ly/marcredhatplaylist
 == Machine Learning use cases with OpenShift
 
 ----
+https://www.accenture.com/us-en/insights/artificial-intelligence/ai-investments
+
+https://hackernoon.com/move-fast-and-break-things-the-ai-governance-dilemma-dsq32ix
+
 ML playlist: https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_wcY8L
 ----
 
