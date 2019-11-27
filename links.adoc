@@ -90,7 +90,8 @@ Outlier detection / pool ejection
 combine multiple Istio capabilities to achieve the ultimate backend resilience:
 • Circuit breaker, to avoid multiple concurrent requests to an instance
 • Pool ejection, to remove failing instances from the pool of responding instances
-• Retries, to forward the request to another instance just in case you get an open circuit breaker or pool ejection
+• Retries, to forward the request to another instance just in case 
+you get an open circuit breaker or pool ejection
 ---- 
  
  
