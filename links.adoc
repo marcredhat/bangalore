@@ -101,6 +101,7 @@ you get an open circuit breaker or pool ejection
 Chaos testing - injecting errors via Istio instead of using code
 
 Observability - tracing via Jaeger, metrics via Grafana and Prometheus, service graphing via Kiali.
+Forward OpenTracing headers: for Spring Boot implementations, there is opentracing_spring_cloud.
 ---- 
  
  
