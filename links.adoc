@@ -92,6 +92,9 @@ combine multiple Istio capabilities to achieve the ultimate backend resilience:
 • Pool ejection, to remove failing instances from the pool of responding instances
 • Retries, to forward the request to another instance just in case 
 you get an open circuit breaker or pool ejection
+
+
+Chaos testing - injecting errors via Istio instead of using code
 ---- 
  
  
