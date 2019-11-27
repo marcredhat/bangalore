@@ -76,6 +76,12 @@ to make network calls appear like local method invocations.
 This gave developers a false peace of mind. 
 Without ensuring the application actively guarded against network failures, 
 he entire system was susceptible to cascading failures.
+
+
+Circuit breaking at the connection-pool level and at the load-balancing host level
+Example: 
+VirtualService splittingtraffic between v1 and v2
+DestinationRule with max pending requests
 ---- 
  
  
