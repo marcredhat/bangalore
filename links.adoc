@@ -44,6 +44,11 @@ https://github.com/marcredhat/crcdemos/blob/master/openliberty/README.adoc
 
 == Service mesh overview
 
+
+----
+https://github.com/redhat-developer-demos/istio-tutorial
+----
+
 ----
 step-by-step instructions on deploying Istio 1.4.0 on OpenShift 3.11 / Minishift
 https://github.com/marcredhat/minishift/blob/master/istio/README.adoc
