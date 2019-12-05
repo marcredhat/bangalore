@@ -1,6 +1,8 @@
 
 
-== Slides: http://bit.ly/marcredhatbangaloreslides
+== Slides
+
+http://bit.ly/marcredhatbangaloreslides
 
 
 == CodeReady Containers / OpenShift 4.2+
