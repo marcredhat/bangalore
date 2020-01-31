@@ -28,6 +28,11 @@ ML playlist: https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqcg2znnClv-xbj93Q_
 == Multicluster/multicloud runtime security and monitoring with Sysdig and OpenShift 
 
 ----
+Runtime policies and eBPF observability in Kubernetes forensics
+Use cases for Open Source Threat Intelligence Platforms (e.g. MISP) and
+Open Source Security Incident Response Solutions designed for SOCs & CERTs (e.g. TheHive)
+http://bit.ly/threatmanage
+
 Sysdig runtime security on OpenShift 4.2+; Deploy the Sysdig Secure agent with eBPF on OpenShift 4.2+
 https://lnkd.in/gY5Sj8m
 
